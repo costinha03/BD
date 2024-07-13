@@ -1,0 +1,40 @@
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\obj\Debug\PetroManager.Form1.resources
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\obj\Debug\PetroManager.Properties.Resources.resources
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.GenerateResource.cache
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.CoreCompileInputs.cache
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\bin\Debug\PetroManager.exe.config
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\bin\Debug\PetroManager.exe
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\bin\Debug\PetroManager.pdb
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\obj\Debug\PetroManager.exe
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\obj\Debug\PetroManager.pdb
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.AssemblyReference.cache
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\bin\Debug\PetroManager.exe.config
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\bin\Debug\PetroManager.exe
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\bin\Debug\PetroManager.pdb
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.AssemblyReference.cache
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.Form1.resources
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.Properties.Resources.resources
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.GenerateResource.cache
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.CoreCompileInputs.cache
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.exe
+C:\Users\costi\OneDrive\Ambiente de Trabalho\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.pdb
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\bin\Debug\PetroManager.exe.config
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\bin\Debug\PetroManager.exe
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\bin\Debug\PetroManager.pdb
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.Form1.resources
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.exe
+C:\Users\Lenovo\Desktop\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.pdb
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\bin\Debug\PetroManager.exe.config
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\bin\Debug\PetroManager.exe
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\bin\Debug\PetroManager.pdb
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.AssemblyReference.cache
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.Form1.resources
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.Properties.Resources.resources
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.GenerateResource.cache
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.csproj.CoreCompileInputs.cache
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.exe
+C:\Users\costi\OneDrive\Documentos\PetroManager\PetroManager\PetroManager\obj\Debug\PetroManager.pdb
